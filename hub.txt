@@ -1,0 +1,5 @@
+hub H3K27acChIPseq
+shortLabel H3K27ac
+longLabel H3K27ac ChIPseq mm9
+genomesFile	genomes.txt
+email	qiruizhang21301@gmail.com
