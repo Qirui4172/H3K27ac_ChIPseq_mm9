@@ -1,0 +1,8 @@
+track  bigWig1
+bigDataUrl https://drive.google.com/file/d/1ulUWmX_HuKhU1oflACpMYamQJgKy_Muj/view?usp=share_link
+shortLabel H3K27ac ChIPseq
+longLabel H3K27ac ChIPseq in MPP cells mm9
+color255,0,0
+type bigWig
+visibility dense
+
